@@ -19,6 +19,11 @@
 	padding: 0 !important;
 }
 
+/* Windows titlebar */
+.titlebar-button {
+	margin: -8px auto !important;
+}
+
 #PanelUI-menu-button[badge-status|="update"] .toolbarbutton-badge
 {
 	display: none !important;
